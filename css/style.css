@@ -1,0 +1,67 @@
+body{
+    
+    margin: auto;
+    background-color: rgb(215, 250, 236);
+}
+
+.header{
+    min-height: 10px;
+    background-color: crimson;
+}
+
+.container{
+    overflow: hidden;
+}
+
+
+.blog{
+    float: left;
+    width: 40%;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+.contact{
+    float: right;
+    width: 60%;
+    height: 200px;
+    background-color: hotpink;
+}
+
+.footer{
+    min-height: 160px;
+    background-color: brown;
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
+
+#tg{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+#tg:hover{
+    color: chartreuse;
+}
+
+.box{
+    float: left;
+    width: 33.33%;
+    height: 350px;
+    background-color: darkgreen;
+}
+
+.yellow{
+    background-color: yellowgreen;
+}
+
+.aqua{
+    background-color: aquamarine;
+}
+
+.red{
+    background-color: red;
+}
